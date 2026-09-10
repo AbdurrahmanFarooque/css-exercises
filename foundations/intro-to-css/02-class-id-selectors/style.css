@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.red-stripe {
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#blue-text {
+    color: blue;
+    font-size: 36px;
+}
+
+.bigger {
+    font-size: 24px;
+}
+
+.green-stripe {
+    background-color: rgba(0, 255, 0, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
